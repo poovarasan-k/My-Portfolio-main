@@ -79,7 +79,7 @@ export default function Contact() {
                                     <Form.Group as={Row} className="mb-3" controlId="validationCustom04">
                                         <Form.Label column sm={4}>Phone Number</Form.Label>
                                         <Col sm={8}>
-                                            <Form.Control type="tel" name="phone" placeholder="Enter your Phone Number" min="10" max="15" required />
+                                            <Form.Control type='Mobile Number' name="phone" placeholder="Enter your Phone Number" min="10" max="15" required />
                                             <Form.Control.Feedback type="invalid">
                                                 Please provide a valid Phone Number.
                                             </Form.Control.Feedback>

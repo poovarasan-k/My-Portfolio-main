@@ -13,7 +13,7 @@ export default function Home() {
                         <h3 className="t1" style={{ marginBottom: "0px", color: "#493ecf" }}>Hi There ! </h3>
                         <h2 className="t1" style={{ paddingLeft: "10px" }}>I'm Poovarasan</h2>
                         <Typed className="t2" style={{ paddingLeft: "20px" }} strings={["Front-End Developer", "Web Developer", "React Developer", "QA Lead", "Web Auto-Testing"]} 
-                        typeSpeed={60} backSpeed={60}
+                        typeSpeed={70} backSpeed={70}
                         loop
                         />
                         <div className="d-flex flex-column">
