@@ -16,9 +16,9 @@ function Footer() {
                 <Row>
                     <Card.Header>
                         <Col className="d-flex justify-content-center">
-                            <a className="anchor" href="https://www.linkedin.com/in/hemanth-26" target="_blank"
+                            <a className="anchor" href="https://www.linkedin.com/in/poovarasan-k-550891239" target="_blank"
                                 rel="noopener noreferrer"><FaLinkedin /></a>
-                            <a className="anchor" href="https://github.com/Hemanth-26" target="_blank"
+                            <a className="anchor" href="https://github.com/poovarasan-k" target="_blank"
                                 rel="noopener noreferrer"><FaGithub /></a>
                         </Col>
                     </Card.Header>

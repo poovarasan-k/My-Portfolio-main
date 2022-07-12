@@ -4,7 +4,7 @@ import AOS from 'aos';
 import "aos/dist/aos.css"
 import "./Resume.css"
 import ResumeImg from "./Resume.gif"
-import MyResume from "./Resume.pdf"
+import MyResume from "./ResumePO.pdf"
 
 export default function Resume() {
     useEffect(() => {
