@@ -38,3 +38,8 @@ export default function About() {
         </Container>
     )
 }
+
+// "predeploy":"npm run build",
+//     "deploy": "gh-pages -d build",
+//       "homepage": "http://poovarasan-k.github.io//My-Portfolio-main",
+//   

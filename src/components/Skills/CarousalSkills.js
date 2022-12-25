@@ -11,6 +11,7 @@ import ReduxLogoCard from "./CardImage/ReduxLogoCard.svg"
 import JsonLogoCard from "./CardImage/JsonLogoCard.svg"
 import GitLogoCard from "./CardImage/GitLogoCard.svg"
 import ResponsiveDesignLogoCard from "./CardImage/ResponsiveDesignLogoCard.svg"
+import QA from "./CardImage/QA.svg"
 
 
 function CarousalSkills() {
@@ -89,13 +90,24 @@ function CarousalSkills() {
                                 <Card.Footer>
                                 </Card.Footer>
                             </Card>
-                            <Card>
+                            {/* <Card>
                                 <Card.Header className="d-flex justify-content-evenly">
                                     <Card.Img className="mt-3" variant="top" src={JqureyLogoCard} />
                                 </Card.Header>
                                 <Card.Body className="mx-auto">
-                                    {/* Web Automation With Python */}
+                                    
                                     <Card.Title className="text-center fs-6">JQUERY</Card.Title>  
+                                </Card.Body>
+                                <Card.Footer>
+                                </Card.Footer>
+                            </Card> */}
+                            <Card>
+                                <Card.Header className="d-flex justify-content-evenly">
+                                    <Card.Img className="mt-3" variant="top" src={QA} />
+                                </Card.Header>
+                                <Card.Body className="mx-auto">
+                                    {/* Web Automation With Python */}
+                                    <Card.Title className="text-center fs-6">Software Testing</Card.Title>  
                                 </Card.Body>
                                 <Card.Footer>
                                 </Card.Footer>
